@@ -1,0 +1,2438 @@
+{
+  "transaction": {
+    "status": "open",
+    "transaction_id": "7362776908130318826"
+  },
+  "pages": [
+    {
+      "page_id": "PBgVJ0dXfZbFLf4k",
+      "page_number": 1,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBhy8LtcdjfQf1Zv",
+      "page_number": 2,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBcrg4MYkKCCvlHP",
+      "page_number": 3,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBrZKLQJ63JjNYpc",
+      "page_number": 4,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBdpvsHpnYm3XnBQ",
+      "page_number": 5,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PB4TGdGxl6y5bvgK",
+      "page_number": 6,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBXFLJQgMLbVMTcB",
+      "page_number": 7,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBFjXxLZ9RhntffX",
+      "page_number": 8,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    }
+  ],
+  "operations": [
+    {
+      "type": "replace_text",
+      "element_id": "PBcrg4MYkKCCvlHP-LBLnKBQmKBkq68nn",
+      "text": "Problem"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBcrg4MYkKCCvlHP-LBLnKBQmKBkq68nn",
+      "formatting": {
+        "font_size": 100
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBcrg4MYkKCCvlHP-LBLnKBQmKBkq68nn",
+      "width": 1000
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBcrg4MYkKCCvlHP-LBLnKBQmKBkq68nn",
+      "left": 110,
+      "top": 70
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+      "text": "ระบบคัดกรองอาการรถและส่งต่อข้อมูลให้ช่าง"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+      "formatting": {
+        "font_size": 38
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+      "width": 830
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+      "left": 940,
+      "top": 320
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBRB0tktR05RtbQP",
+      "text": "ผู้ใช้รถ → ระบบ Heuristic/Search → อู่/ช่าง"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBRB0tktR05RtbQP",
+      "formatting": {
+        "font_size": 32
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBRB0tktR05RtbQP",
+      "width": 860
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBRB0tktR05RtbQP",
+      "left": 940,
+      "top": 440
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBZ57WLFv1llVyPx",
+      "text": "ผู้ใช้รถ: รู้เพียงอาการ แต่บอกบริบทไม่ครบ\nและไม่มั่นใจว่าควรตรวจอะไรต่อ\n\nระบบ: ต้องเลือกคำถามที่ช่วยแยกสาเหตุ\nจากข้อมูลจำกัด โดยให้ความปลอดภัยมาก่อน\n\nอู่/ช่าง: ต้องการประวัติอาการและผลตรวจเดิม\nอย่างเป็นระบบ เพื่อใช้ประกอบการวินิจฉัย"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBZ57WLFv1llVyPx",
+      "formatting": {
+        "font_size": 34
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBZ57WLFv1llVyPx",
+      "width": 820
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBZ57WLFv1llVyPx",
+      "left": 940,
+      "top": 530
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBHmZzlL4PzPxl6N",
+      "text": "Search Flow & Handoff"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBHmZzlL4PzPxl6N",
+      "formatting": {
+        "font_size": 115
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBHmZzlL4PzPxl6N",
+      "width": 1600
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBHmZzlL4PzPxl6N",
+      "left": 50,
+      "top": 30
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBsKsSgnX52gv2hY",
+      "text": "ผู้ใช้รถ → ระบบ Heuristic/Search → Diagnostic Summary → อู่/ช่าง"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBsKsSgnX52gv2hY",
+      "formatting": {
+        "font_size": 37
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBsKsSgnX52gv2hY",
+      "width": 1780
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBsKsSgnX52gv2hY",
+      "left": 60,
+      "top": 220
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBbDqp3JZcfMFzmm",
+      "text": "01  ผู้ใช้รถ"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBbDqp3JZcfMFzmm",
+      "formatting": {
+        "font_size": 40
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBbDqp3JZcfMFzmm",
+      "width": 550
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBbDqp3JZcfMFzmm",
+      "left": 70,
+      "top": 715
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LB67SgfTPM2Sy1Rv",
+      "text": "แจ้งอาการและช่วงเวลาที่เกิด\nตอบคำถาม / สังเกตเฉพาะสิ่งที่ปลอดภัย\nเลือก “ไม่ทราบ” ได้\nเมื่อเสี่ยงหรือไม่มั่นใจ → หยุดและขอช่างช่วย"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LB67SgfTPM2Sy1Rv",
+      "formatting": {
+        "font_size": 30
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LB67SgfTPM2Sy1Rv",
+      "width": 530
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LB67SgfTPM2Sy1Rv",
+      "left": 70,
+      "top": 790
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBpdKX7vfPkFxgjW",
+      "text": "02  ระบบ Heuristic/Search"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBpdKX7vfPkFxgjW",
+      "formatting": {
+        "font_size": 36
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBpdKX7vfPkFxgjW",
+      "width": 590
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBpdKX7vfPkFxgjW",
+      "left": 660,
+      "top": 715
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBt8JFbhvXBHdFPS",
+      "text": "สร้างกลุ่มสาเหตุ → เลือกคำถามด้วย h(n)\nรับคำตอบ → ปรับกลุ่มสาเหตุ → ค้นหาต่อ\nหยุดเมื่อข้อมูลพอ / เสี่ยง / ไม่มีขั้นตอนที่เหมาะ\nสรุปอาการและข้อสงสัย ไม่ยืนยันชิ้นส่วนเสีย"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBt8JFbhvXBHdFPS",
+      "formatting": {
+        "font_size": 30
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBt8JFbhvXBHdFPS",
+      "width": 570
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBt8JFbhvXBHdFPS",
+      "left": 660,
+      "top": 790
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBd1W62j0fz9pg7K",
+      "text": "03  อู่/ช่าง"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LBd1W62j0fz9pg7K",
+      "formatting": {
+        "font_size": 40
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBd1W62j0fz9pg7K",
+      "width": 550
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBd1W62j0fz9pg7K",
+      "left": 1290,
+      "top": 715
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4",
+      "text": "รับ Diagnostic Summary:\nอาการ • บริบท • คำตอบ • สิ่งที่ยังไม่ทราบ\nผลสังเกต • สาเหตุที่ควรตรวจต่อ\nช่างตรวจรถจริง วินิจฉัย และวางแผนซ่อม"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4",
+      "formatting": {
+        "font_size": 30
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4",
+      "width": 550
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4",
+      "left": 1290,
+      "top": 790
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBPyMYY1X75WrNhH",
+      "height": 350
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBrZKLQJ63JjNYpc-LBwmtDZtj9s82zDJ",
+      "height": 350
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBdpvsHpnYm3XnBQ-LB8vCB6zW69ZvVsx",
+      "text": "Start State"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBdpvsHpnYm3XnBQ-LB8vCB6zW69ZvVsx",
+      "formatting": {
+        "font_size": 130
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBdpvsHpnYm3XnBQ-LB8vCB6zW69ZvVsx",
+      "width": 800
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBdpvsHpnYm3XnBQ-LB8vCB6zW69ZvVsx",
+      "left": 90,
+      "top": 135
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBygZQQKyr5y6SnS",
+      "text": "ผู้ใช้รถ\nพบอาการผิดปกติ เช่น สตาร์ทไม่ติด\nมีเสียงหรือไฟเตือน\nยังไม่ทราบสาเหตุแน่ชัด"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBygZQQKyr5y6SnS",
+      "formatting": {
+        "font_size": 34
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBygZQQKyr5y6SnS",
+      "width": 530
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBygZQQKyr5y6SnS",
+      "left": 1270,
+      "top": 145
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LByZlzHfbdn6Sw6N",
+      "text": "ระบบ\nรับอาการและข้อมูลรถเบื้องต้น\nยังไม่มีหลักฐานพอยืนยันสาเหตุ\nเริ่มจากกลุ่มสาเหตุที่เป็นไปได้"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LByZlzHfbdn6Sw6N",
+      "formatting": {
+        "font_size": 34
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LByZlzHfbdn6Sw6N",
+      "width": 530
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LByZlzHfbdn6Sw6N",
+      "left": 1270,
+      "top": 465
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBklKl3qWGw34n6F",
+      "text": "อู่/ช่าง\nยังไม่ได้รับข้อมูลอาการที่เป็นระบบ\nยังไม่ได้ตรวจรถจริง\nรอข้อมูลส่งต่อเพื่อประกอบการตรวจ"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBklKl3qWGw34n6F",
+      "formatting": {
+        "font_size": 34
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBklKl3qWGw34n6F",
+      "width": 530
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBklKl3qWGw34n6F",
+      "left": 1270,
+      "top": 785
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A2",
+      "text": "1. ผู้ใช้รถ: รู้ขั้นตอนถัดไปที่เหมาะสม"
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A3",
+      "text": "ได้รับคำแนะนำเบื้องต้นตามขอบเขตที่ปลอดภัย หากเสี่ยง ไม่มั่นใจ หรือข้อมูลไม่พอ ให้หยุดตรวจและขอความช่วยเหลือ ไม่รับรองว่าซ่อมเองสำเร็จหรือขับต่อได้"
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A4",
+      "text": "2. ระบบ: ได้ข้อมูลสรุปที่ตรวจสอบย้อนกลับได้"
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A5",
+      "text": "สร้าง Diagnostic Summary: ข้อมูลรถ อาการและบริบท คำตอบ/ผลสังเกต สิ่งที่ยังไม่ทราบ กลุ่มสาเหตุที่ควรตรวจต่อ และเหตุผลที่หยุดค้นหา"
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A6",
+      "text": "3. อู่/ช่าง: ได้ข้อมูลประกอบการวินิจฉัย"
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A7",
+      "text": "รับสรุปจากผู้ใช้ ตรวจรถจริงเพื่อยืนยันหรือหักล้างข้อสงสัย แล้ววินิจฉัยและวางแผนซ่อม ระบบช่วยคัดกรองและสื่อสาร ไม่วินิจฉัยแทนช่าง"
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBbs867G0LHMVdXc",
+      "text": "Heuristic Function"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBbs867G0LHMVdXc",
+      "formatting": {
+        "font_size": 110
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBbs867G0LHMVdXc",
+      "width": 1600
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBbs867G0LHMVdXc",
+      "left": 115,
+      "top": 100
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBhYl6FH6GXJkTmc",
+      "text": "เลือกขั้นตอนถัดไปด้วยคะแนน h(n)"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBhYl6FH6GXJkTmc",
+      "formatting": {
+        "font_size": 38
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBhYl6FH6GXJkTmc",
+      "width": 1000
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBhYl6FH6GXJkTmc",
+      "left": 170,
+      "top": 320
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LB5kxSM4mdzBRgvp",
+      "text": "n = คำถาม/การสังเกตถัดไป • เลือกคะแนนสูงก่อน\nh(n) = S × E / (R + 1) เป็นคะแนนจัดลำดับ ไม่ใช่โอกาสวินิจฉัยถูก"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LB5kxSM4mdzBRgvp",
+      "formatting": {
+        "font_size": 30
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LB5kxSM4mdzBRgvp",
+      "width": 1030
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LB5kxSM4mdzBRgvp",
+      "left": 190,
+      "top": 390
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBQHK3mPl84j5vmD",
+      "text": "ปัจจัยและเงื่อนไขหยุด"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBQHK3mPl84j5vmD",
+      "formatting": {
+        "font_size": 38
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBQHK3mPl84j5vmD",
+      "width": 980
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBQHK3mPl84j5vmD",
+      "left": 170,
+      "top": 505
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBXc7JqWqmrYMMJq",
+      "text": "S = ความสอดคล้องกับอาการและความพบบ่อย\nE = ความง่ายในการสังเกตโดยผู้ใช้ทั่วไป"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBXc7JqWqmrYMMJq",
+      "formatting": {
+        "font_size": 31
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBXc7JqWqmrYMMJq",
+      "width": 960
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBXc7JqWqmrYMMJq",
+      "left": 190,
+      "top": 570
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBYJZ0Gbwl6Q5Rcw",
+      "text": "R = ความเสี่ยงต่อผู้ใช้และตัวรถ (มาก → คะแนนลด)\nกำหนดสเกล S, E, R ให้ชัด และปรับคะแนนเมื่อได้คำตอบ"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBYJZ0Gbwl6Q5Rcw",
+      "formatting": {
+        "font_size": 31
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBYJZ0Gbwl6Q5Rcw",
+      "width": 960
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBYJZ0Gbwl6Q5Rcw",
+      "left": 190,
+      "top": 675
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBg7t0n0M0KFj7fW",
+      "text": "Safety gate: เสี่ยงหรือไม่มั่นใจ → หยุด ไม่จัดอันดับให้ทำต่อ\nข้อมูลพอ / ไม่มีขั้นตอนที่เหมาะ → ส่งสรุปให้ช่างตรวจยืนยัน"
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBXFLJQgMLbVMTcB-LBg7t0n0M0KFj7fW",
+      "formatting": {
+        "font_size": 31
+      }
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBg7t0n0M0KFj7fW",
+      "width": 990
+    },
+    {
+      "type": "position_element",
+      "element_id": "PBXFLJQgMLbVMTcB-LBg7t0n0M0KFj7fW",
+      "left": 190,
+      "top": 785
+    },
+    {
+      "type": "replace_text",
+      "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+      "text": "คัดกรองอาการรถเบื้องต้น\nเพื่อส่งต่อข้อมูลให้ช่าง"
+    },
+    {
+      "type": "resize_element",
+      "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+      "width": 680
+    },
+    {
+      "type": "format_text",
+      "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4",
+      "formatting": {
+        "font_weight": "normal"
+      }
+    }
+  ],
+  "draft": {
+    "richtexts": [
+      {
+        "page_index": 1,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Active learning 4 Heuristic \n"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 260.5633214216689,
+            "left": -125.79447329716459
+          },
+          "dimension": {
+            "width": 2256.423784618759,
+            "height": 841.7998
+          }
+        },
+        "element_id": "PBgVJ0dXfZbFLf4k-LBxhdxjDJXRbK8Gr"
+      },
+      {
+        "page_index": 1,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Active learning 4 Heuristic \n"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 260.56332142166895,
+            "left": 44.991640583240724
+          },
+          "dimension": {
+            "width": 1914.851556857948,
+            "height": 842.0502573389384
+          }
+        },
+        "element_id": "PBgVJ0dXfZbFLf4k-LBScKyC18RJxtBTT"
+      },
+      {
+        "page_index": 1,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Group 12"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 972,
+            "left": 739.4031467379955
+          },
+          "dimension": {
+            "width": 441.19370652400903,
+            "height": 39
+          }
+        },
+        "element_id": "PBgVJ0dXfZbFLf4k-LBtB0Mb8Kh3Sjjbq"
+      },
+      {
+        "page_index": 2,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Group Nembers"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 9.550727002453442,
+            "left": 29.283681109869008
+          },
+          "dimension": {
+            "width": 654.4531608767093,
+            "height": 372.6588
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LBMp9qQtmXb9GdY3"
+      },
+      {
+        "page_index": 2,
+        "regions": [
+          {
+            "type": "character",
+            "text": "ฐานพงศ์ กุลเจจริญชัยหิรัญ 6830611058"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 549.2438154041913,
+            "left": 1320.1873911192924
+          },
+          "dimension": {
+            "width": 491.81260888070796,
+            "height": 32
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LB3NC3p7zpFw3SR3"
+      },
+      {
+        "page_index": 2,
+        "regions": [
+          {
+            "type": "character",
+            "text": "01"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 549.2438154041913,
+            "left": 1244.793695559646
+          },
+          "dimension": {
+            "width": 75.39369555964618,
+            "height": 32
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LB4VTsy2SpjYtgV2"
+      },
+      {
+        "page_index": 2,
+        "regions": [
+          {
+            "type": "character",
+            "text": "ศิวัฒม์ ณ ระนอง 6830611017"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 611.7447668804696,
+            "left": 1381.1248951974133
+          },
+          "dimension": {
+            "width": 430.87510480258715,
+            "height": 32
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LBV9tNB3pQzDPC9N"
+      },
+      {
+        "page_index": 2,
+        "regions": [
+          {
+            "type": "character",
+            "text": "02"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 611.7447668804696,
+            "left": 1244.793695559646
+          },
+          "dimension": {
+            "width": 75.39369555964618,
+            "height": 32
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LBdYxq3P59299fXW"
+      },
+      {
+        "page_index": 2,
+        "regions": [
+          {
+            "type": "character",
+            "text": "พวศ์ภัค เกล้าชัย 6830611109"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 674.2457183567478,
+            "left": 1395.0984580508614
+          },
+          "dimension": {
+            "width": 416.901541949139,
+            "height": 32
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LBsx8n77xwlRWBg4"
+      },
+      {
+        "page_index": 2,
+        "regions": [
+          {
+            "type": "character",
+            "text": "03"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 674.2457183567478,
+            "left": 1244.793695559646
+          },
+          "dimension": {
+            "width": 75.39369555964618,
+            "height": 32
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LBWVmc2jd99G5BbF"
+      },
+      {
+        "page_index": 2,
+        "regions": [
+          {
+            "type": "character",
+            "text": "จิรเดช ดีเสมอ 6830611012"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 736.7466698330261,
+            "left": 1452.6783491008578
+          },
+          "dimension": {
+            "width": 359.3216508991427,
+            "height": 32
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LBytWWxmP9qmVTV0"
+      },
+      {
+        "page_index": 2,
+        "regions": [
+          {
+            "type": "character",
+            "text": "04"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 736.7466698330261,
+            "left": 1244.793695559646
+          },
+          "dimension": {
+            "width": 75.39369555964618,
+            "height": 32
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LBD7Xw8YNVzVb0nt"
+      },
+      {
+        "page_index": 3,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Problem"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 69.99999999999999,
+            "left": 110
+          },
+          "dimension": {
+            "width": 1000,
+            "height": 119.63652953501119
+          }
+        },
+        "element_id": "PBcrg4MYkKCCvlHP-LBLnKBQmKBkq68nn"
+      },
+      {
+        "page_index": 3,
+        "regions": [
+          {
+            "type": "character",
+            "text": "คัดกรองอาการรถเบื้องต้น\nเพื่อส่งต่อข้อมูลให้ช่าง"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 320,
+            "left": 940
+          },
+          "dimension": {
+            "width": 680,
+            "height": 90
+          }
+        },
+        "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr"
+      },
+      {
+        "page_index": 3,
+        "regions": [
+          {
+            "type": "character",
+            "text": "ผู้ใช้รถ: รู้เพียงอาการ แต่บอกบริบทไม่ครบ\nและไม่มั่นใจว่าควรตรวจอะไรต่อ\n\nระบบ: ต้องเลือกคำถามที่ช่วยแยกสาเหตุ\nจากข้อมูลจำกัด โดยให้ความปลอดภัยมาก่อน\n\nอู่/ช่าง: ต้องการประวัติอาการและผลตรวจเดิม\nอย่างเป็นระบบ เพื่อใช้ประกอบการวินิจฉัย"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 530,
+            "left": 940
+          },
+          "dimension": {
+            "width": 820,
+            "height": 320
+          }
+        },
+        "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBZ57WLFv1llVyPx"
+      },
+      {
+        "page_index": 3,
+        "regions": [
+          {
+            "type": "character",
+            "text": "ผู้ใช้รถ → ระบบ Heuristic/Search → อู่/ช่าง"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 440,
+            "left": 940
+          },
+          "dimension": {
+            "width": 860,
+            "height": 38
+          }
+        },
+        "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBRB0tktR05RtbQP"
+      },
+      {
+        "page_index": 4,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Search Flow & Handoff"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 30,
+            "left": 50
+          },
+          "dimension": {
+            "width": 1600,
+            "height": 138
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LBHmZzlL4PzPxl6N"
+      },
+      {
+        "page_index": 4,
+        "regions": [
+          {
+            "type": "character",
+            "text": "แจ้งอาการและช่วงเวลาที่เกิด\nตอบคำถาม / สังเกตเฉพาะสิ่งที่ปลอดภัย\nเลือก “ไม่ทราบ” ได้\nเมื่อเสี่ยงหรือไม่มั่นใจ → หยุดและขอช่างช่วย"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 790,
+            "left": 70
+          },
+          "dimension": {
+            "width": 530,
+            "height": 144
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LB67SgfTPM2Sy1Rv"
+      },
+      {
+        "page_index": 4,
+        "regions": [
+          {
+            "type": "character",
+            "text": "สร้างกลุ่มสาเหตุ → เลือกคำถามด้วย h(n)\nรับคำตอบ → ปรับกลุ่มสาเหตุ → ค้นหาต่อ\nหยุดเมื่อข้อมูลพอ / เสี่ยง / ไม่มีขั้นตอนที่เหมาะ\nสรุปอาการและข้อสงสัย ไม่ยืนยันชิ้นส่วนเสีย"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 790,
+            "left": 660
+          },
+          "dimension": {
+            "width": 570,
+            "height": 144
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LBt8JFbhvXBHdFPS"
+      },
+      {
+        "page_index": 4,
+        "regions": [
+          {
+            "type": "character",
+            "text": "01  ผู้ใช้รถ"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 715,
+            "left": 70
+          },
+          "dimension": {
+            "width": 550,
+            "height": 48
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LBbDqp3JZcfMFzmm"
+      },
+      {
+        "page_index": 4,
+        "regions": [
+          {
+            "type": "character",
+            "text": "02  ระบบ Heuristic/Search"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 715,
+            "left": 660
+          },
+          "dimension": {
+            "width": 590,
+            "height": 43
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LBpdKX7vfPkFxgjW"
+      },
+      {
+        "page_index": 4,
+        "regions": [
+          {
+            "type": "character",
+            "text": "03  อู่/ช่าง"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 715,
+            "left": 1290
+          },
+          "dimension": {
+            "width": 550,
+            "height": 48
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LBd1W62j0fz9pg7K"
+      },
+      {
+        "page_index": 4,
+        "regions": [
+          {
+            "type": "character",
+            "text": "ผู้ใช้รถ → ระบบ Heuristic/Search → Diagnostic Summary → อู่/ช่าง"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 220,
+            "left": 60
+          },
+          "dimension": {
+            "width": 1780,
+            "height": 44
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LBsKsSgnX52gv2hY"
+      },
+      {
+        "page_index": 4,
+        "regions": [
+          {
+            "type": "character",
+            "text": "รับ Diagnostic Summary:\nอาการ • บริบท • คำตอบ • สิ่งที่ยังไม่ทราบ\nผลสังเกต • สาเหตุที่ควรตรวจต่อ\nช่างตรวจรถจริง วินิจฉัย และวางแผนซ่อม"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 790,
+            "left": 1290
+          },
+          "dimension": {
+            "width": 550,
+            "height": 144
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4"
+      },
+      {
+        "page_index": 5,
+        "regions": [],
+        "containerElement": {
+          "type": "SHAPE",
+          "position": {
+            "top": 53.48056784021844,
+            "left": 960
+          },
+          "dimension": {
+            "width": 909.9999999999999,
+            "height": 976.5194321597814
+          }
+        },
+        "element_id": "PBdpvsHpnYm3XnBQ-LBjBvGX9s7tJzpk3"
+      },
+      {
+        "page_index": 5,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Start State"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 135,
+            "left": 90
+          },
+          "dimension": {
+            "width": 800,
+            "height": 156
+          }
+        },
+        "element_id": "PBdpvsHpnYm3XnBQ-LB8vCB6zW69ZvVsx"
+      },
+      {
+        "page_index": 5,
+        "regions": [
+          {
+            "type": "character",
+            "text": "01"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 137.8723824696564,
+            "left": 1114.4335707859807
+          },
+          "dimension": {
+            "width": 79.99846213099758,
+            "height": 155.38951479438464
+          }
+        },
+        "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBl7lDvxVxW9TXmg"
+      },
+      {
+        "page_index": 5,
+        "regions": [
+          {
+            "type": "character",
+            "text": "ผู้ใช้รถ\nพบอาการผิดปกติ เช่น สตาร์ทไม่ติด\nมีเสียงหรือไฟเตือน\nยังไม่ทราบสาเหตุแน่ชัด"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 145,
+            "left": 1270
+          },
+          "dimension": {
+            "width": 530,
+            "height": 160
+          }
+        },
+        "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBygZQQKyr5y6SnS"
+      },
+      {
+        "page_index": 5,
+        "regions": [
+          {
+            "type": "character",
+            "text": "02"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 464.04552652291693,
+            "left": 1099.5858169995352
+          },
+          "dimension": {
+            "width": 109.69396970388873,
+            "height": 155.38951479438464
+          }
+        },
+        "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LBHybLPqTMj585gD"
+      },
+      {
+        "page_index": 5,
+        "regions": [
+          {
+            "type": "character",
+            "text": "ระบบ\nรับอาการและข้อมูลรถเบื้องต้น\nยังไม่มีหลักฐานพอยืนยันสาเหตุ\nเริ่มจากกลุ่มสาเหตุที่เป็นไปได้"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 465,
+            "left": 1270
+          },
+          "dimension": {
+            "width": 530,
+            "height": 160
+          }
+        },
+        "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LByZlzHfbdn6Sw6N"
+      },
+      {
+        "page_index": 5,
+        "regions": [
+          {
+            "type": "character",
+            "text": "03"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 790.2186705761774,
+            "left": 1099.5220927343573
+          },
+          "dimension": {
+            "width": 109.82141823424448,
+            "height": 155.38951479438464
+          }
+        },
+        "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBl460C0dtvfw5Xp"
+      },
+      {
+        "page_index": 5,
+        "regions": [
+          {
+            "type": "character",
+            "text": "อู่/ช่าง\nยังไม่ได้รับข้อมูลอาการที่เป็นระบบ\nยังไม่ได้ตรวจรถจริง\nรอข้อมูลส่งต่อเพื่อประกอบการตรวจ"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 785,
+            "left": 1270
+          },
+          "dimension": {
+            "width": 530,
+            "height": 160
+          }
+        },
+        "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBklKl3qWGw34n6F"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A1"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B1"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C1"
+      },
+      {
+        "page_index": 6,
+        "regions": [
+          {
+            "type": "character",
+            "text": "1. ผู้ใช้รถ: รู้ขั้นตอนถัดไปที่เหมาะสม"
+          }
+        ],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A2"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B2"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C2"
+      },
+      {
+        "page_index": 6,
+        "regions": [
+          {
+            "type": "character",
+            "text": "ได้รับคำแนะนำเบื้องต้นตามขอบเขตที่ปลอดภัย หากเสี่ยง ไม่มั่นใจ หรือข้อมูลไม่พอ ให้หยุดตรวจและขอความช่วยเหลือ ไม่รับรองว่าซ่อมเองสำเร็จหรือขับต่อได้"
+          }
+        ],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A3"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B3"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C3"
+      },
+      {
+        "page_index": 6,
+        "regions": [
+          {
+            "type": "character",
+            "text": "2. ระบบ: ได้ข้อมูลสรุปที่ตรวจสอบย้อนกลับได้"
+          }
+        ],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A4"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B4"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C4"
+      },
+      {
+        "page_index": 6,
+        "regions": [
+          {
+            "type": "character",
+            "text": "สร้าง Diagnostic Summary: ข้อมูลรถ อาการและบริบท คำตอบ/ผลสังเกต สิ่งที่ยังไม่ทราบ กลุ่มสาเหตุที่ควรตรวจต่อ และเหตุผลที่หยุดค้นหา"
+          }
+        ],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A5"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B5"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C5"
+      },
+      {
+        "page_index": 6,
+        "regions": [
+          {
+            "type": "character",
+            "text": "3. อู่/ช่าง: ได้ข้อมูลประกอบการวินิจฉัย"
+          }
+        ],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A6"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B6"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C6"
+      },
+      {
+        "page_index": 6,
+        "regions": [
+          {
+            "type": "character",
+            "text": "รับสรุปจากผู้ใช้ ตรวจรถจริงเพื่อยืนยันหรือหักล้างข้อสงสัย แล้ววินิจฉัยและวางแผนซ่อม ระบบช่วยคัดกรองและสื่อสาร ไม่วินิจฉัยแทนช่าง"
+          }
+        ],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A7"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B7"
+      },
+      {
+        "page_index": 6,
+        "regions": [],
+        "containerElement": {
+          "type": "TABLE",
+          "position": {
+            "top": 234.22008929931712,
+            "left": 433.5467268485711
+          },
+          "dimension": {
+            "width": 1202.0651399396515,
+            "height": 705.742773301793
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C7"
+      },
+      {
+        "page_index": 6,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Goal State "
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 9.217165492996273,
+            "left": 50
+          },
+          "dimension": {
+            "width": 1618.8546326559558,
+            "height": 247.6568
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LB1Q1gJJffSnlJL3"
+      },
+      {
+        "page_index": 7,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Heuristic Function"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 99.99999999999999,
+            "left": 115
+          },
+          "dimension": {
+            "width": 1600,
+            "height": 131.90567244921684
+          }
+        },
+        "element_id": "PBXFLJQgMLbVMTcB-LBbs867G0LHMVdXc"
+      },
+      {
+        "page_index": 7,
+        "regions": [
+          {
+            "type": "character",
+            "text": "n = คำถาม/การสังเกตถัดไป • เลือกคะแนนสูงก่อน\nh(n) = S × E / (R + 1) เป็นคะแนนจัดลำดับ ไม่ใช่โอกาสวินิจฉัยถูก"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 390,
+            "left": 190
+          },
+          "dimension": {
+            "width": 1030,
+            "height": 72
+          }
+        },
+        "element_id": "PBXFLJQgMLbVMTcB-LB5kxSM4mdzBRgvp"
+      },
+      {
+        "page_index": 7,
+        "regions": [
+          {
+            "type": "character",
+            "text": "S = ความสอดคล้องกับอาการและความพบบ่อย\nE = ความง่ายในการสังเกตโดยผู้ใช้ทั่วไป"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 570,
+            "left": 190
+          },
+          "dimension": {
+            "width": 960,
+            "height": 74
+          }
+        },
+        "element_id": "PBXFLJQgMLbVMTcB-LBXc7JqWqmrYMMJq"
+      },
+      {
+        "page_index": 7,
+        "regions": [
+          {
+            "type": "character",
+            "text": "เลือกขั้นตอนถัดไปด้วยคะแนน h(n)"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 320,
+            "left": 170
+          },
+          "dimension": {
+            "width": 1000,
+            "height": 45
+          }
+        },
+        "element_id": "PBXFLJQgMLbVMTcB-LBhYl6FH6GXJkTmc"
+      },
+      {
+        "page_index": 7,
+        "regions": [
+          {
+            "type": "character",
+            "text": "ปัจจัยและเงื่อนไขหยุด"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 505,
+            "left": 170
+          },
+          "dimension": {
+            "width": 980,
+            "height": 45
+          }
+        },
+        "element_id": "PBXFLJQgMLbVMTcB-LBQHK3mPl84j5vmD"
+      },
+      {
+        "page_index": 7,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Safety gate: เสี่ยงหรือไม่มั่นใจ → หยุด ไม่จัดอันดับให้ทำต่อ\nข้อมูลพอ / ไม่มีขั้นตอนที่เหมาะ → ส่งสรุปให้ช่างตรวจยืนยัน"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 785,
+            "left": 190
+          },
+          "dimension": {
+            "width": 990,
+            "height": 74
+          }
+        },
+        "element_id": "PBXFLJQgMLbVMTcB-LBg7t0n0M0KFj7fW"
+      },
+      {
+        "page_index": 7,
+        "regions": [
+          {
+            "type": "character",
+            "text": "R = ความเสี่ยงต่อผู้ใช้และตัวรถ (มาก → คะแนนลด)\nกำหนดสเกล S, E, R ให้ชัด และปรับคะแนนเมื่อได้คำตอบ"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 675,
+            "left": 190
+          },
+          "dimension": {
+            "width": 960,
+            "height": 74
+          }
+        },
+        "element_id": "PBXFLJQgMLbVMTcB-LBYJZ0Gbwl6Q5Rcw"
+      },
+      {
+        "page_index": 8,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Thank You"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 265.9245884227298,
+            "left": -197.71164046561717
+          },
+          "dimension": {
+            "width": 1881.7275724889842,
+            "height": 519.4476
+          }
+        },
+        "element_id": "PBFjXxLZ9RhntffX-LBvB9NPHxlW5nXFZ"
+      },
+      {
+        "page_index": 8,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Gourp 12"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 990.9930572509768,
+            "left": 50.102753008348486
+          },
+          "dimension": {
+            "width": 425.96999314313484,
+            "height": 39
+          }
+        },
+        "element_id": "PBFjXxLZ9RhntffX-LBBNj3f6kchHGbSh"
+      },
+      {
+        "page_index": 8,
+        "regions": [
+          {
+            "type": "character",
+            "text": "Thank You"
+          }
+        ],
+        "containerElement": {
+          "type": "TEXT",
+          "position": {
+            "top": 265.9245884227298,
+            "left": 135.56010406678763
+          },
+          "dimension": {
+            "width": 1548.4558279565792,
+            "height": 519.4476
+          }
+        },
+        "element_id": "PBFjXxLZ9RhntffX-LBBLr5WF70cSNrRT"
+      }
+    ],
+    "fills": [
+      {
+        "type": "image",
+        "asset_id": "MAFddgbJkhQ",
+        "page_index": 1,
+        "editable": true,
+        "element_id": "PBgVJ0dXfZbFLf4k"
+      },
+      {
+        "type": "video",
+        "asset_id": "VAGWNzm2Nkg",
+        "page_index": 1,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 190.8403272441672,
+            "left": 594.3877772190233
+          },
+          "dimension": {
+            "width": 731.2244455619534,
+            "height": 698.3193455116656
+          }
+        },
+        "element_id": "PBgVJ0dXfZbFLf4k-LBGrv1f0s2BTV3Kb"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAFddgbJkhQ",
+        "page_index": 2,
+        "editable": true,
+        "element_id": "PBhy8LtcdjfQf1Zv"
+      },
+      {
+        "type": "video",
+        "asset_id": "VAGWN_qrcAI",
+        "page_index": 2,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": -52.36053661052074,
+            "left": 1669.491208244789
+          },
+          "dimension": {
+            "width": 309.3831996941971,
+            "height": 320.60435201471205
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LBkHJmMjYrv7vH9b"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAG_xt6KtfA",
+        "page_index": 2,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 306.05268269168715,
+            "left": 574.1646309081257
+          },
+          "dimension": {
+            "width": 580.8303848047058,
+            "height": 675.3841683775648
+          }
+        },
+        "element_id": "PBhy8LtcdjfQf1Zv-LB1Wbqr42P5trZMS"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAFddgbJkhQ",
+        "page_index": 3,
+        "editable": true,
+        "element_id": "PBcrg4MYkKCCvlHP"
+      },
+      {
+        "type": "video",
+        "asset_id": "VAGWN6TkXZg",
+        "page_index": 3,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 167.99999999999997,
+            "left": 1631.0261720311557
+          },
+          "dimension": {
+            "width": 447.2145326783171,
+            "height": 427.0898787077928
+          }
+        },
+        "element_id": "PBcrg4MYkKCCvlHP-LBQcg3B9QjprWhQY"
+      },
+      {
+        "type": "video",
+        "asset_id": "VAFwo8UQ6cs",
+        "page_index": 3,
+        "editable": true,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 315.0369232667264,
+            "left": 58.83354934113328
+          },
+          "dimension": {
+            "width": 789.7990328982306,
+            "height": 606.2326075411577
+          }
+        },
+        "element_id": "PBcrg4MYkKCCvlHP-LBTnLrPGsnlqvwbQ"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAFddgbJkhQ",
+        "page_index": 4,
+        "editable": true,
+        "element_id": "PBrZKLQJ63JjNYpc"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAHVRMzSwOI",
+        "page_index": 4,
+        "editable": true,
+        "containerElement": {
+          "type": "SHAPE",
+          "position": {
+            "top": 320.7538397207319,
+            "left": 960.0000000000001
+          },
+          "dimension": {
+            "width": 796.3801779940529,
+            "height": 350.00000000000006
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LBPyMYY1X75WrNhH"
+      },
+      {
+        "type": "video",
+        "asset_id": "VAGWN2d_5Gw",
+        "page_index": 4,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": -73.261584149701,
+            "left": 1697.5738325989087
+          },
+          "dimension": {
+            "width": 286.49843964585386,
+            "height": 299.9983661213129
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LBBWWzMqqDbj09T1"
+      },
+      {
+        "type": "video",
+        "asset_id": "VAGZcjf3QmU",
+        "page_index": 4,
+        "editable": true,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 325.82809128844474,
+            "left": 41.62189168261153
+          },
+          "dimension": {
+            "width": 776.1684070816028,
+            "height": 350
+          }
+        },
+        "element_id": "PBrZKLQJ63JjNYpc-LBwmtDZtj9s82zDJ"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAFddgbJkhQ",
+        "page_index": 5,
+        "editable": true,
+        "element_id": "PBdpvsHpnYm3XnBQ"
+      },
+      {
+        "type": "video",
+        "asset_id": "VAGWN6TkXZg",
+        "page_index": 5,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 600.0931897283647,
+            "left": -159.10228744065626
+          },
+          "dimension": {
+            "width": 767.3560209424083,
+            "height": 732.825
+          }
+        },
+        "element_id": "PBdpvsHpnYm3XnBQ-LBDDKC2lDZ8mKVSW"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAFddgbJkhQ",
+        "page_index": 6,
+        "editable": true,
+        "element_id": "PB4TGdGxl6y5bvgK"
+      },
+      {
+        "type": "video",
+        "asset_id": "VAGWNzm2Nkg",
+        "page_index": 6,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": -192.24484533892021,
+            "left": 1659.0450148356895
+          },
+          "dimension": {
+            "width": 421.90997032862083,
+            "height": 402.9240216638329
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LB93rZD0NhwzyMM5"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAEZF0nZ_RM",
+        "page_index": 6,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 321.39352097716403,
+            "left": 108
+          },
+          "dimension": {
+            "width": 200.17294530313922,
+            "height": 199.17208057662356
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBCTfxXB0SJs7sKj"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAEmM_rCaHc",
+        "page_index": 6,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 572.6351566648967,
+            "left": 108
+          },
+          "dimension": {
+            "width": 185.6526818905998,
+            "height": 185.6526818905998
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBfJHQ2Nj14Tf2pc"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAGgMf7X7z4",
+        "page_index": 6,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 823.2878385554966,
+            "left": 96.97219787884454
+          },
+          "dimension": {
+            "width": 207.70828613291067,
+            "height": 217.49558757372847
+          }
+        },
+        "element_id": "PB4TGdGxl6y5bvgK-LBSx1rbkGKxftPtG"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAFddgbJkhQ",
+        "page_index": 7,
+        "editable": true,
+        "element_id": "PBXFLJQgMLbVMTcB"
+      },
+      {
+        "type": "video",
+        "asset_id": "VAGWN6TkXZg",
+        "page_index": 7,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": -97.48556470271694,
+            "left": 1660.9814802961657
+          },
+          "dimension": {
+            "width": 302.0370394076691,
+            "height": 288.445372634324
+          }
+        },
+        "element_id": "PBXFLJQgMLbVMTcB-LBDPvstB3skvWy9S"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAHVQJi3HgM",
+        "page_index": 7,
+        "editable": true,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 905.1989064150112,
+            "left": 449.6509256473423
+          },
+          "dimension": {
+            "width": 693.0613459442591,
+            "height": 133.60218716997767
+          }
+        },
+        "element_id": "PBXFLJQgMLbVMTcB-LBHL9ZtG7F4XsPy7"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAGwZ7b3Uz8",
+        "page_index": 7,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 459.7079146650596,
+            "left": 1269.6610285979095
+          },
+          "dimension": {
+            "width": 667.3598895949747,
+            "height": 633.9918951152259
+          }
+        },
+        "element_id": "PBXFLJQgMLbVMTcB-LBv2g34B6Lp7G9yz"
+      },
+      {
+        "type": "image",
+        "asset_id": "MAFddgbJkhQ",
+        "page_index": 8,
+        "editable": true,
+        "element_id": "PBFjXxLZ9RhntffX"
+      },
+      {
+        "type": "video",
+        "asset_id": "VAGWN2qBy20",
+        "page_index": 8,
+        "editable": false,
+        "containerElement": {
+          "type": "RECT",
+          "position": {
+            "top": 213.10902937594068,
+            "left": 556.6361999131125
+          },
+          "dimension": {
+            "width": 706.3036362639301,
+            "height": 625.0787180935782
+          }
+        },
+        "element_id": "PBFjXxLZ9RhntffX-LBD4gc4H3jX1Pf3R"
+      }
+    ],
+    "thumbnails": [
+      {
+        "width": -1,
+        "height": -1,
+        "url": "https://export-download.canva.com/c907b8d2-2ec9-4a16-aadd-0082fa14a24c/0/0003-97344808387563971.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20260928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260928T160743Z&X-Amz-Expires=85802&X-Amz-Signature=f8fb64f0a7545c36706a901c6967161e26a9c804989b4e7c40e1c3e41d8d5100&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2029%20Sep%202026%2015%3A57%3A45%20GMT"
+      }
+    ],
+    "edit_operation_results": [
+      {
+        "status": "success",
+        "operation_info": {
+          "type": "replace_text",
+          "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr"
+        }
+      },
+      {
+        "status": "success",
+        "operation_info": {
+          "type": "resize_element",
+          "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+          "width": 680,
+          "preserve_aspect_ratio": false
+        }
+      },
+      {
+        "status": "success",
+        "operation_info": {
+          "type": "format_text",
+          "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4"
+        }
+      }
+    ],
+    "pages": [
+      {
+        "page_id": "PBgVJ0dXfZbFLf4k",
+        "page_number": 1,
+        "dimension": {
+          "width": 1920,
+          "height": 1080
+        },
+        "is_responsive": false,
+        "is_empty": false,
+        "is_editable": true
+      },
+      {
+        "page_id": "PBhy8LtcdjfQf1Zv",
+        "page_number": 2,
+        "dimension": {
+          "width": 1920,
+          "height": 1080
+        },
+        "is_responsive": false,
+        "is_empty": false,
+        "is_editable": true
+      },
+      {
+        "page_id": "PBcrg4MYkKCCvlHP",
+        "page_number": 3,
+        "dimension": {
+          "width": 1920,
+          "height": 1080
+        },
+        "is_responsive": false,
+        "is_empty": false,
+        "is_editable": true
+      },
+      {
+        "page_id": "PBrZKLQJ63JjNYpc",
+        "page_number": 4,
+        "dimension": {
+          "width": 1920,
+          "height": 1080
+        },
+        "is_responsive": false,
+        "is_empty": false,
+        "is_editable": true
+      },
+      {
+        "page_id": "PBdpvsHpnYm3XnBQ",
+        "page_number": 5,
+        "dimension": {
+          "width": 1920,
+          "height": 1080
+        },
+        "is_responsive": false,
+        "is_empty": false,
+        "is_editable": true
+      },
+      {
+        "page_id": "PB4TGdGxl6y5bvgK",
+        "page_number": 6,
+        "dimension": {
+          "width": 1920,
+          "height": 1080
+        },
+        "is_responsive": false,
+        "is_empty": false,
+        "is_editable": true
+      },
+      {
+        "page_id": "PBXFLJQgMLbVMTcB",
+        "page_number": 7,
+        "dimension": {
+          "width": 1920,
+          "height": 1080
+        },
+        "is_responsive": false,
+        "is_empty": false,
+        "is_editable": true
+      },
+      {
+        "page_id": "PBFjXxLZ9RhntffX",
+        "page_number": 8,
+        "dimension": {
+          "width": 1920,
+          "height": 1080
+        },
+        "is_responsive": false,
+        "is_empty": false,
+        "is_editable": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+const test=require('node:test'),assert=require('node:assert/strict');
+const C=require('../outputs/carwise/engine.js');
+test('Safety gate overrides ranking immediately',()=>{assert.match(C.shouldStop('yes',[]),/ไม่ปลอดภัย/);assert.match(C.shouldStop('unknown',[]),/ไม่มั่นใจ/);});
+test('Two unknown responses stop further screening',()=>{assert.equal(C.shouldStop('no',[{answer:'ไม่ทราบ'}]),null);assert.match(C.shouldStop('no',[{answer:'ไม่ทราบ'},{answer:'ไม่ทราบ'}]),/ข้อมูลยังไม่พอ/);});
+test('Unknown does not add or remove diagnostic evidence',()=>{assert.deepEqual(C.rank('start',[{id:'lights',answer:'ไม่ทราบ'}]),C.rank('start',[]));});
+test('Evidence changes candidate ranking without dropping candidates',()=>{const r=C.rank('start',[{id:'startsound',answer:'เครื่องหมุน แต่ไม่ติด'}]);assert.equal(r.length,3);assert.equal(r[0].label,'ระบบเชื้อเพลิง / เครื่องยนต์');});
+test('Heuristic adapts the next question score to a click sound',()=>{assert.equal(C.next('start',[{id:'startsound',answer:'มีเสียงแชะ ๆ'}]).score,25);assert.equal(C.next('start',[{id:'startsound',answer:'เงียบ ไม่มีเสียงหมุน'}]).score,20);});
+test('Question order adapts to noise evidence',()=>{const r=C.next('noise',[{id:'whennoise',answer:'ขณะเลี้ยว / ผ่านพื้นขรุขระ'},{id:'noisetype',answer:'กึก / กระแทก'}]);assert.equal(r.id,'noiselocation');assert.equal(r.score,20);});
+test('Every symptom finishes after four distinct questions',()=>{for(const category of Object.keys(C.groups)){const answers=[];for(let i=0;i<4;i++){const q=C.next(category,answers);assert.ok(q);answers.push({id:q.id,answer:q.options[0]});}assert.equal(new Set(answers.map(a=>a.id)).size,4);assert.equal(C.next(category,answers),null);assert.match(C.shouldStop('no',answers),/ครบ/);}});
+test('Case import rejects malformed data',()=>{assert.equal(C.validCase({}),false);assert.equal(C.validCase({id:'x',category:'nonsense'}),false);});
+test('Export-shaped case validates',()=>{assert.equal(C.validCase({id:'CW-T',category:'start',vehicle:'Toyota',created:new Date().toISOString(),reason:'completed',safety:'no',answers:[]}),true);});

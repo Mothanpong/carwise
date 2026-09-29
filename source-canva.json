@@ -1,0 +1,1734 @@
+{
+  "transaction": {
+    "status": "open",
+    "transaction_id": "7362776908130318826"
+  },
+  "edit_design_url": "https://www.canva.com/d/hbhh9vYWl62IKhX",
+  "richtexts": [
+    {
+      "page_index": 1,
+      "regions": [
+        {
+          "type": "character",
+          "text": "Active learning 4 Heuristic \n"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 260.5633214216689,
+          "left": -125.79447329716459
+        },
+        "dimension": {
+          "width": 2256.423784618759,
+          "height": 841.7998
+        }
+      },
+      "element_id": "PBgVJ0dXfZbFLf4k-LBxhdxjDJXRbK8Gr"
+    },
+    {
+      "page_index": 1,
+      "regions": [
+        {
+          "type": "character",
+          "text": "Active learning 4 Heuristic \n"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 260.56332142166895,
+          "left": 44.991640583240724
+        },
+        "dimension": {
+          "width": 1914.851556857948,
+          "height": 842.0502573389384
+        }
+      },
+      "element_id": "PBgVJ0dXfZbFLf4k-LBScKyC18RJxtBTT"
+    },
+    {
+      "page_index": 1,
+      "regions": [
+        {
+          "type": "character",
+          "text": "Group 12"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 972,
+          "left": 739.4031467379955
+        },
+        "dimension": {
+          "width": 441.19370652400903,
+          "height": 39
+        }
+      },
+      "element_id": "PBgVJ0dXfZbFLf4k-LBtB0Mb8Kh3Sjjbq"
+    },
+    {
+      "page_index": 2,
+      "regions": [
+        {
+          "type": "character",
+          "text": "Group Nembers"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 9.550727002453442,
+          "left": 29.283681109869008
+        },
+        "dimension": {
+          "width": 654.4531608767093,
+          "height": 372.6588
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LBMp9qQtmXb9GdY3"
+    },
+    {
+      "page_index": 2,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ฐานพงศ์ กุลเจจริญชัยหิรัญ 6830611058"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 549.2438154041913,
+          "left": 1320.1873911192924
+        },
+        "dimension": {
+          "width": 491.81260888070796,
+          "height": 32
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LB3NC3p7zpFw3SR3"
+    },
+    {
+      "page_index": 2,
+      "regions": [
+        {
+          "type": "character",
+          "text": "01"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 549.2438154041913,
+          "left": 1244.793695559646
+        },
+        "dimension": {
+          "width": 75.39369555964618,
+          "height": 32
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LB4VTsy2SpjYtgV2"
+    },
+    {
+      "page_index": 2,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ศิวัฒม์ ณ ระนอง 6830611017"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 611.7447668804696,
+          "left": 1381.1248951974133
+        },
+        "dimension": {
+          "width": 430.87510480258715,
+          "height": 32
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LBV9tNB3pQzDPC9N"
+    },
+    {
+      "page_index": 2,
+      "regions": [
+        {
+          "type": "character",
+          "text": "02"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 611.7447668804696,
+          "left": 1244.793695559646
+        },
+        "dimension": {
+          "width": 75.39369555964618,
+          "height": 32
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LBdYxq3P59299fXW"
+    },
+    {
+      "page_index": 2,
+      "regions": [
+        {
+          "type": "character",
+          "text": "พวศ์ภัค เกล้าชัย 6830611109"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 674.2457183567478,
+          "left": 1395.0984580508614
+        },
+        "dimension": {
+          "width": 416.901541949139,
+          "height": 32
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LBsx8n77xwlRWBg4"
+    },
+    {
+      "page_index": 2,
+      "regions": [
+        {
+          "type": "character",
+          "text": "03"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 674.2457183567478,
+          "left": 1244.793695559646
+        },
+        "dimension": {
+          "width": 75.39369555964618,
+          "height": 32
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LBWVmc2jd99G5BbF"
+    },
+    {
+      "page_index": 2,
+      "regions": [
+        {
+          "type": "character",
+          "text": "จิรเดช ดีเสมอ 6830611012"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 736.7466698330261,
+          "left": 1452.6783491008578
+        },
+        "dimension": {
+          "width": 359.3216508991427,
+          "height": 32
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LBytWWxmP9qmVTV0"
+    },
+    {
+      "page_index": 2,
+      "regions": [
+        {
+          "type": "character",
+          "text": "04"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 736.7466698330261,
+          "left": 1244.793695559646
+        },
+        "dimension": {
+          "width": 75.39369555964618,
+          "height": 32
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LBD7Xw8YNVzVb0nt"
+    },
+    {
+      "page_index": 3,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ปัญหา "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 72.10833775889535,
+          "left": 804.0127497138751
+        },
+        "dimension": {
+          "width": 311.9745005722499,
+          "height": 159.05279536138795
+        }
+      },
+      "element_id": "PBcrg4MYkKCCvlHP-LBLnKBQmKBkq68nn"
+    },
+    {
+      "page_index": 3,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ปัญหาอุปสรรคและความท้าทายของผู้ใช้รถทั่วไปในการตรวจสอบและแก้ไขอาการผิดปกติ"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 342.5449393538962,
+          "left": 866.6816388673033
+        },
+        "dimension": {
+          "width": 711.1327076386671,
+          "height": 78
+        }
+      },
+      "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr"
+    },
+    {
+      "page_index": 3,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ขาดองค์ความรู้และทักษะพื้นฐาน : ผู้ใช้รถยนต์และรถจักรยานยนต์จำนวนมากไม่มีพื้นฐานด้านช่าง ทำให้ไม่สามารถแยกแยะสัญญาณเตือนเบื้องต้นได้  \nเช่น : เสียงผิดปกติ  เสียงหอน  เสียงครูด  กลิ่นไหม้ หรือ  อาการสั่นสะท้อนที่พวงมาลัย/แฮนด์รถ\n"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 597.9062806751169,
+          "left": 924.4471950845625
+        },
+        "dimension": {
+          "width": 492.0169215674664,
+          "height": 263
+        }
+      },
+      "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBZ57WLFv1llVyPx"
+    },
+    {
+      "page_index": 3,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ปัญหาและอุปสรรคในการสังเกตและประเมินอาการรถเบื้องต้น : "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 473.90628067511705,
+          "left": 924.4471950845627
+        },
+        "dimension": {
+          "width": 711.1327076386671,
+          "height": 78
+        }
+      },
+      "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBRB0tktR05RtbQP"
+    },
+    {
+      "page_index": 4,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ปัญหา problem"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": -15.828399999999988,
+          "left": 50.000000000000114
+        },
+        "dimension": {
+          "width": 1449.2174635283632,
+          "height": 247.6568
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LBHmZzlL4PzPxl6N"
+    },
+    {
+      "page_index": 4,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ขาดองค์ความรู้และทักษะพื้นฐาน : ผู้ใช้รถยนต์และรถจักรยานยนต์จำนวนมากไม่มีพื้นฐานด้านช่าง ทำให้ไม่สามารถแยกแยะสัญญาณเตือนเบื้องต้นได้ \nเช่น : เสียงผิดปกติ เสียงหอน เสียงครูด กลิ่นไหม้ หรือ อาการสั่นสะท้อนที่พวงมาลัย/แฮนด์รถ\n"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 864.7440833249584,
+          "left": 162.81325016099413
+        },
+        "dimension": {
+          "width": 533.7856901248374,
+          "height": 192
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LB67SgfTPM2Sy1Rv"
+    },
+    {
+      "page_index": 4,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ไม่กล้าตรวจสอบหรือลองแก้ไขเบื้องต้นด้วยตนเอง เพราะกลัวสร้างความเสียหายเพิ่มเติมให้กับตัวรถ หรือไม่มั่นใจว่าอาการที่เป็นอยู่จัดอยูในระดับอันตรายที่ต้องหยุดใช้รถทันทีหรือไม่"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 864.7440833249584,
+          "left": 1116.7901000466009
+        },
+        "dimension": {
+          "width": 482.79997790085145,
+          "height": 128
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LBt8JFbhvXBHdFPS"
+    },
+    {
+      "page_index": 4,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ปัญหาอุปสรรคในการสังเกตและประเมินอาการรถเบื้องต้น : "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 800.7440833249584,
+          "left": 162.81325016099413
+        },
+        "dimension": {
+          "width": 707.938586504144,
+          "height": 32
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LBbDqp3JZcfMFzmm"
+    },
+    {
+      "page_index": 4,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ปัญหา ความกังวลและขาดความมั่นใจ :"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 800.7440833249584,
+          "left": 1116.7901000466009
+        },
+        "dimension": {
+          "width": 482.79997790085145,
+          "height": 32
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LBpdKX7vfPkFxgjW"
+    },
+    {
+      "page_index": 4,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ปัญหา "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 793.2440833249584,
+          "left": 25.628341328914857
+        },
+        "dimension": {
+          "width": 248.26679057971913,
+          "height": 47
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LBd1W62j0fz9pg7K"
+    },
+    {
+      "page_index": 4,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ปัญหาอุปสรรคและความท้าทายของผู้ใช้รถทั่วไปในการตรวจสอบและแก้ไขอาการผิดปกติ"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 231.65680000000003,
+          "left": 50.000000000000114
+        },
+        "dimension": {
+          "width": 1233.162320949166,
+          "height": 32
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LBsKsSgnX52gv2hY"
+    },
+    {
+      "page_index": 4,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ปัญหา "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 793.2440833249584,
+          "left": 948.0326230893103
+        },
+        "dimension": {
+          "width": 248.26679057971913,
+          "height": 47
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4"
+    },
+    {
+      "page_index": 5,
+      "regions": [],
+      "containerElement": {
+        "type": "SHAPE",
+        "position": {
+          "top": 53.48056784021844,
+          "left": 960
+        },
+        "dimension": {
+          "width": 909.9999999999999,
+          "height": 976.5194321597814
+        }
+      },
+      "element_id": "PBdpvsHpnYm3XnBQ-LBjBvGX9s7tJzpk3"
+    },
+    {
+      "page_index": 5,
+      "regions": [
+        {
+          "type": "character",
+          "text": "start state"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 112.8149483841139,
+          "left": 108
+        },
+        "dimension": {
+          "width": 780.9155361052271,
+          "height": 412.6568
+        }
+      },
+      "element_id": "PBdpvsHpnYm3XnBQ-LB8vCB6zW69ZvVsx"
+    },
+    {
+      "page_index": 5,
+      "regions": [
+        {
+          "type": "character",
+          "text": "01"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 137.8723824696564,
+          "left": 1114.4335707859807
+        },
+        "dimension": {
+          "width": 79.99846213099758,
+          "height": 155.38951479438464
+        }
+      },
+      "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBl7lDvxVxW9TXmg"
+    },
+    {
+      "page_index": 5,
+      "regions": [
+        {
+          "type": "character",
+          "text": "รับรู้อาการผิดปกติเบื้องต้นทางกายภาพ (เช่น รถสตาร์ทไม่ติด, มีเสียงแชะๆ, ไฟหน้าปัดเตือน)"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 157.06713986684872,
+          "left": 1301.7691834292361
+        },
+        "dimension": {
+          "width": 396.20872383640653,
+          "height": 156
+        }
+      },
+      "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBygZQQKyr5y6SnS"
+    },
+    {
+      "page_index": 5,
+      "regions": [
+        {
+          "type": "character",
+          "text": "02"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 464.04552652291693,
+          "left": 1099.5858169995352
+        },
+        "dimension": {
+          "width": 109.69396970388873,
+          "height": 155.38951479438464
+        }
+      },
+      "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LBHybLPqTMj585gD"
+    },
+    {
+      "page_index": 5,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ผู้ใช้มีความรู้เชิงช่างเท่ากับ 0 "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 483.2402839201093,
+          "left": 1301.7691834292361
+        },
+        "dimension": {
+          "width": 301.68371641295755,
+          "height": 78
+        }
+      },
+      "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LByZlzHfbdn6Sw6N"
+    },
+    {
+      "page_index": 5,
+      "regions": [
+        {
+          "type": "character",
+          "text": "03"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 790.2186705761774,
+          "left": 1099.5220927343573
+        },
+        "dimension": {
+          "width": 109.82141823424448,
+          "height": 155.38951479438464
+        }
+      },
+      "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBl460C0dtvfw5Xp"
+    },
+    {
+      "page_index": 5,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ยังไม่มีการตรวจเช็กหรือทราบสาเหตุใดๆ"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 809.4134279733697,
+          "left": 1301.7691834292361
+        },
+        "dimension": {
+          "width": 369.71896517132154,
+          "height": 78
+        }
+      },
+      "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBklKl3qWGw34n6F"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A1"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B1"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C1"
+    },
+    {
+      "page_index": 6,
+      "regions": [
+        {
+          "type": "character",
+          "text": "1. แก้ไขปัญหาสำเร็จได้ด้วยตนเอง 100% (Complete DIY Resolution)"
+        }
+      ],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A2"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B2"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C2"
+    },
+    {
+      "page_index": 6,
+      "regions": [
+        {
+          "type": "character",
+          "text": "รายละเอียด: ผู้ใช้ทราบต้นตอของปัญหา และสามารถปฏิบัติตามขั้นตอนแก้ไขเบื้องต้นของรถกลับมาใช้งานได้ปกติ โดยไม่ต้องไปอู่ซ่อมรถ (เช่น พ่วงแบตเตอรี่เองได้, ขันขั้วแบตแน่น, เปลี่ยนฟิวส์ที่ขาด)"
+        }
+      ],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A3"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B3"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C3"
+    },
+    {
+      "page_index": 6,
+      "regions": [
+        {
+          "type": "character",
+          "text": "2. แก้ไขชั่วคราวเพื่อความปลอดภัยในการเดินทางต่อ (Safe Temporary Fix)"
+        }
+      ],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A4"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B4"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C4"
+    },
+    {
+      "page_index": 6,
+      "regions": [
+        {
+          "type": "character",
+          "text": "รายละเอียด: ผู้ใช้ประเมินความปลอดภัยได้ว่าขับต่อได้หรือไม่ และสามารถ \"ปฐมพยาบาลรถ\" ชั่วคราวเพื่อขับไปอยู่ในจุดที่ปลอดภัยได้ด้วยตนเอง (เช่น การเปลี่ยนใส่ยางอะไหล่, การเติมน้ำเปล่าระบายความร้อนชั่วคราว)"
+        }
+      ],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A5"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B5"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C5"
+    },
+    {
+      "page_index": 6,
+      "regions": [
+        {
+          "type": "character",
+          "text": "3. ได้ข้อสรุปอาการที่แม่นยำเพื่อไปสื่อสารกับช่าง (Accurate Diagnosis Report)"
+        }
+      ],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A6"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B6"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C6"
+    },
+    {
+      "page_index": 6,
+      "regions": [
+        {
+          "type": "character",
+          "text": "รายละเอียด: กรณีที่เป็นปัญหาหนักที่ไม่สามารถซ่อมเองได้ ระบบจะออก \"รายงานสรุปสาเหตุและชิ้นส่วนที่คาดว่าเสีย\" ให้ผู้ใช้นำไปแจ้งอู่/ศูนย์บริการได้อย่างถูกต้อง ป้องกันการถูกช่างหลอกฟันราคาหรือซ่อมไม่ตรงจุด"
+        }
+      ],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A7"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-B7"
+    },
+    {
+      "page_index": 6,
+      "regions": [],
+      "containerElement": {
+        "type": "TABLE",
+        "position": {
+          "top": 234.22008929931712,
+          "left": 433.5467268485711
+        },
+        "dimension": {
+          "width": 1202.0651399396515,
+          "height": 817.68817112447
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-C7"
+    },
+    {
+      "page_index": 6,
+      "regions": [
+        {
+          "type": "character",
+          "text": "Goal State "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 9.217165492996273,
+          "left": 50
+        },
+        "dimension": {
+          "width": 1618.8546326559558,
+          "height": 247.6568
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LB1Q1gJJffSnlJL3"
+    },
+    {
+      "page_index": 7,
+      "regions": [
+        {
+          "type": "character",
+          "text": "การออกแบบ Heuristic Function"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 125.20284860611154,
+          "left": 118.8495495486959
+        },
+        "dimension": {
+          "width": 1693.150450451304,
+          "height": 176.99542028662486
+        }
+      },
+      "element_id": "PBXFLJQgMLbVMTcB-LBbs867G0LHMVdXc"
+    },
+    {
+      "page_index": 7,
+      "regions": [
+        {
+          "type": "character",
+          "text": "กำหนดค่าประเมิน เพื่อช่วยให้ระบบเลือกลำดับคำถาม/การเช็กจุดเสียที่ \"เจอบ่อยที่สุด ตรวจง่ายที่สุด และปลอดภัยที่สุด\" สำหรับคนทั่วไปก่อน "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 396.22572635571106,
+          "left": 339.3788602531524
+        },
+        "dimension": {
+          "width": 540.8373797258969,
+          "height": 96
+        }
+      },
+      "element_id": "PBXFLJQgMLbVMTcB-LB5kxSM4mdzBRgvp"
+    },
+    {
+      "page_index": 7,
+      "regions": [
+        {
+          "type": "character",
+          "text": "โอกาสเกิดปัญหา : สาเหตุนี้เจอบ่อยแค่ไหนในชีวิตประจำวัน (เจอบ่อย = คะแนนสูง) "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 583.2257263557111,
+          "left": 339.3788602531524
+        },
+        "dimension": {
+          "width": 540.8373797258969,
+          "height": 64
+        }
+      },
+      "element_id": "PBXFLJQgMLbVMTcB-LBXc7JqWqmrYMMJq"
+    },
+    {
+      "page_index": 7,
+      "regions": [
+        {
+          "type": "character",
+          "text": "แนวคิดหลัก:"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 341.3802669823707,
+          "left": 271.1439192777482
+        },
+        "dimension": {
+          "width": 357.0140127391883,
+          "height": 39
+        }
+      },
+      "element_id": "PBXFLJQgMLbVMTcB-LBhYl6FH6GXJkTmc"
+    },
+    {
+      "page_index": 7,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ปัจจัยในการคำนวณ "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 518.2257263557111,
+          "left": 271.1439192777482
+        },
+        "dimension": {
+          "width": 333.75931326002024,
+          "height": 39
+        }
+      },
+      "element_id": "PBXFLJQgMLbVMTcB-LBQHK3mPl84j5vmD"
+    },
+    {
+      "page_index": 7,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ระดับความเสี่ยงอันตราย  :  ความเสี่ยงอันตรายต่อผู้ใช้หรือทำให้รถเสียหายเพิ่ม (อันตราย = โดนตัดคะแนน) "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 795.8180019103658,
+          "left": 339.3788602531524
+        },
+        "dimension": {
+          "width": 540.8373797258969,
+          "height": 96
+        }
+      },
+      "element_id": "PBXFLJQgMLbVMTcB-LBg7t0n0M0KFj7fW"
+    },
+    {
+      "page_index": 7,
+      "regions": [
+        {
+          "type": "character",
+          "text": "ความง่ายในการเช็กเอง : สังเกต/เช็กเองได้ง่ายโดยไม่ต้องใช้เครื่องมือช่าง (ง่าย = คะแนนสูง) "
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 689.5218641330384,
+          "left": 339.3788602531524
+        },
+        "dimension": {
+          "width": 540.8373797258969,
+          "height": 64
+        }
+      },
+      "element_id": "PBXFLJQgMLbVMTcB-LBYJZ0Gbwl6Q5Rcw"
+    },
+    {
+      "page_index": 8,
+      "regions": [
+        {
+          "type": "character",
+          "text": "Thank You"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 265.9245884227298,
+          "left": -197.71164046561717
+        },
+        "dimension": {
+          "width": 1881.7275724889842,
+          "height": 519.4476
+        }
+      },
+      "element_id": "PBFjXxLZ9RhntffX-LBvB9NPHxlW5nXFZ"
+    },
+    {
+      "page_index": 8,
+      "regions": [
+        {
+          "type": "character",
+          "text": "Gourp 12"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 990.9930572509768,
+          "left": 50.102753008348486
+        },
+        "dimension": {
+          "width": 425.96999314313484,
+          "height": 39
+        }
+      },
+      "element_id": "PBFjXxLZ9RhntffX-LBBNj3f6kchHGbSh"
+    },
+    {
+      "page_index": 8,
+      "regions": [
+        {
+          "type": "character",
+          "text": "Thank You"
+        }
+      ],
+      "containerElement": {
+        "type": "TEXT",
+        "position": {
+          "top": 265.9245884227298,
+          "left": 135.56010406678763
+        },
+        "dimension": {
+          "width": 1548.4558279565792,
+          "height": 519.4476
+        }
+      },
+      "element_id": "PBFjXxLZ9RhntffX-LBBLr5WF70cSNrRT"
+    }
+  ],
+  "fills": [
+    {
+      "type": "image",
+      "asset_id": "MAFddgbJkhQ",
+      "page_index": 1,
+      "editable": true,
+      "element_id": "PBgVJ0dXfZbFLf4k"
+    },
+    {
+      "type": "video",
+      "asset_id": "VAGWNzm2Nkg",
+      "page_index": 1,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 190.8403272441672,
+          "left": 594.3877772190233
+        },
+        "dimension": {
+          "width": 731.2244455619534,
+          "height": 698.3193455116656
+        }
+      },
+      "element_id": "PBgVJ0dXfZbFLf4k-LBGrv1f0s2BTV3Kb"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAFddgbJkhQ",
+      "page_index": 2,
+      "editable": true,
+      "element_id": "PBhy8LtcdjfQf1Zv"
+    },
+    {
+      "type": "video",
+      "asset_id": "VAGWN_qrcAI",
+      "page_index": 2,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": -52.36053661052074,
+          "left": 1669.491208244789
+        },
+        "dimension": {
+          "width": 309.3831996941971,
+          "height": 320.60435201471205
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LBkHJmMjYrv7vH9b"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAG_xt6KtfA",
+      "page_index": 2,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 306.05268269168715,
+          "left": 574.1646309081257
+        },
+        "dimension": {
+          "width": 580.8303848047058,
+          "height": 675.3841683775648
+        }
+      },
+      "element_id": "PBhy8LtcdjfQf1Zv-LB1Wbqr42P5trZMS"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAFddgbJkhQ",
+      "page_index": 3,
+      "editable": true,
+      "element_id": "PBcrg4MYkKCCvlHP"
+    },
+    {
+      "type": "video",
+      "asset_id": "VAGWN6TkXZg",
+      "page_index": 3,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 167.99999999999997,
+          "left": 1631.0261720311557
+        },
+        "dimension": {
+          "width": 447.2145326783171,
+          "height": 427.0898787077928
+        }
+      },
+      "element_id": "PBcrg4MYkKCCvlHP-LBQcg3B9QjprWhQY"
+    },
+    {
+      "type": "video",
+      "asset_id": "VAFwo8UQ6cs",
+      "page_index": 3,
+      "editable": true,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 315.0369232667264,
+          "left": 58.83354934113328
+        },
+        "dimension": {
+          "width": 789.7990328982306,
+          "height": 606.2326075411577
+        }
+      },
+      "element_id": "PBcrg4MYkKCCvlHP-LBTnLrPGsnlqvwbQ"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAFddgbJkhQ",
+      "page_index": 4,
+      "editable": true,
+      "element_id": "PBrZKLQJ63JjNYpc"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAHVRMzSwOI",
+      "page_index": 4,
+      "editable": true,
+      "containerElement": {
+        "type": "SHAPE",
+        "position": {
+          "top": 320.7538397207319,
+          "left": 960.0000000000001
+        },
+        "dimension": {
+          "width": 796.3801779940529,
+          "height": 456.44660194174736
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LBPyMYY1X75WrNhH"
+    },
+    {
+      "type": "video",
+      "asset_id": "VAGWN2d_5Gw",
+      "page_index": 4,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": -73.261584149701,
+          "left": 1697.5738325989087
+        },
+        "dimension": {
+          "width": 286.49843964585386,
+          "height": 299.9983661213129
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LBBWWzMqqDbj09T1"
+    },
+    {
+      "type": "video",
+      "asset_id": "VAGZcjf3QmU",
+      "page_index": 4,
+      "editable": true,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 325.82809128844474,
+          "left": 41.62189168261153
+        },
+        "dimension": {
+          "width": 776.1684070816028,
+          "height": 442.41599203651367
+        }
+      },
+      "element_id": "PBrZKLQJ63JjNYpc-LBwmtDZtj9s82zDJ"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAFddgbJkhQ",
+      "page_index": 5,
+      "editable": true,
+      "element_id": "PBdpvsHpnYm3XnBQ"
+    },
+    {
+      "type": "video",
+      "asset_id": "VAGWN6TkXZg",
+      "page_index": 5,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 600.0931897283647,
+          "left": -159.10228744065626
+        },
+        "dimension": {
+          "width": 767.3560209424083,
+          "height": 732.825
+        }
+      },
+      "element_id": "PBdpvsHpnYm3XnBQ-LBDDKC2lDZ8mKVSW"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAFddgbJkhQ",
+      "page_index": 6,
+      "editable": true,
+      "element_id": "PB4TGdGxl6y5bvgK"
+    },
+    {
+      "type": "video",
+      "asset_id": "VAGWNzm2Nkg",
+      "page_index": 6,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": -192.24484533892021,
+          "left": 1659.0450148356895
+        },
+        "dimension": {
+          "width": 421.90997032862083,
+          "height": 402.9240216638329
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LB93rZD0NhwzyMM5"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAEZF0nZ_RM",
+      "page_index": 6,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 321.39352097716403,
+          "left": 108
+        },
+        "dimension": {
+          "width": 200.17294530313922,
+          "height": 199.17208057662356
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBCTfxXB0SJs7sKj"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAEmM_rCaHc",
+      "page_index": 6,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 572.6351566648967,
+          "left": 108
+        },
+        "dimension": {
+          "width": 185.6526818905998,
+          "height": 185.6526818905998
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBfJHQ2Nj14Tf2pc"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAGgMf7X7z4",
+      "page_index": 6,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 823.2878385554966,
+          "left": 96.97219787884454
+        },
+        "dimension": {
+          "width": 207.70828613291067,
+          "height": 217.49558757372847
+        }
+      },
+      "element_id": "PB4TGdGxl6y5bvgK-LBSx1rbkGKxftPtG"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAFddgbJkhQ",
+      "page_index": 7,
+      "editable": true,
+      "element_id": "PBXFLJQgMLbVMTcB"
+    },
+    {
+      "type": "video",
+      "asset_id": "VAGWN6TkXZg",
+      "page_index": 7,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": -97.48556470271694,
+          "left": 1660.9814802961657
+        },
+        "dimension": {
+          "width": 302.0370394076691,
+          "height": 288.445372634324
+        }
+      },
+      "element_id": "PBXFLJQgMLbVMTcB-LBDPvstB3skvWy9S"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAHVQJi3HgM",
+      "page_index": 7,
+      "editable": true,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 905.1989064150112,
+          "left": 449.6509256473423
+        },
+        "dimension": {
+          "width": 693.0613459442591,
+          "height": 133.60218716997767
+        }
+      },
+      "element_id": "PBXFLJQgMLbVMTcB-LBHL9ZtG7F4XsPy7"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAGwZ7b3Uz8",
+      "page_index": 7,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 459.7079146650596,
+          "left": 1269.6610285979095
+        },
+        "dimension": {
+          "width": 667.3598895949747,
+          "height": 633.9918951152259
+        }
+      },
+      "element_id": "PBXFLJQgMLbVMTcB-LBv2g34B6Lp7G9yz"
+    },
+    {
+      "type": "image",
+      "asset_id": "MAFddgbJkhQ",
+      "page_index": 8,
+      "editable": true,
+      "element_id": "PBFjXxLZ9RhntffX"
+    },
+    {
+      "type": "video",
+      "asset_id": "VAGWN2qBy20",
+      "page_index": 8,
+      "editable": false,
+      "containerElement": {
+        "type": "RECT",
+        "position": {
+          "top": 213.10902937594068,
+          "left": 556.6361999131125
+        },
+        "dimension": {
+          "width": 706.3036362639301,
+          "height": 625.0787180935782
+        }
+      },
+      "element_id": "PBFjXxLZ9RhntffX-LBD4gc4H3jX1Pf3R"
+    }
+  ],
+  "thumbnails": [
+    {
+      "width": -1,
+      "height": -1,
+      "url": "https://export-download.canva.com/e1d1f397-2a25-4133-a1f3-879e11681028/0/0001-135625404186834838.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20260928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260928T152139Z&X-Amz-Expires=88254&X-Amz-Signature=1ee267cf5a76b284a36cef6edd281a2353424b9d58a7fdf8fd7cb9e12b63fbfd&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Tue%2C%2029%20Sep%202026%2015%3A52%3A33%20GMT"
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "PBgVJ0dXfZbFLf4k",
+      "page_number": 1,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBhy8LtcdjfQf1Zv",
+      "page_number": 2,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBcrg4MYkKCCvlHP",
+      "page_number": 3,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBrZKLQJ63JjNYpc",
+      "page_number": 4,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBdpvsHpnYm3XnBQ",
+      "page_number": 5,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PB4TGdGxl6y5bvgK",
+      "page_number": 6,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBXFLJQgMLbVMTcB",
+      "page_number": 7,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    },
+    {
+      "page_id": "PBFjXxLZ9RhntffX",
+      "page_number": 8,
+      "dimension": {
+        "width": 1920,
+        "height": 1080
+      },
+      "is_responsive": false,
+      "is_empty": false,
+      "is_editable": true
+    }
+  ]
+}

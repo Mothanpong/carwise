@@ -1,0 +1,571 @@
+[
+  {
+    "type": "replace_text",
+    "element_id": "PBcrg4MYkKCCvlHP-LBLnKBQmKBkq68nn",
+    "text": "Problem"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBcrg4MYkKCCvlHP-LBLnKBQmKBkq68nn",
+    "formatting": {
+      "font_size": 100
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBcrg4MYkKCCvlHP-LBLnKBQmKBkq68nn",
+    "width": 1000
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBcrg4MYkKCCvlHP-LBLnKBQmKBkq68nn",
+    "left": 110,
+    "top": 70
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+    "text": "ระบบคัดกรองอาการรถและส่งต่อข้อมูลให้ช่าง"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+    "formatting": {
+      "font_size": 38
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+    "width": 830
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBcrg4MYkKCCvlHP-LBclHXQ08CBswRyr",
+    "left": 940,
+    "top": 320
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBRB0tktR05RtbQP",
+    "text": "ผู้ใช้รถ → ระบบ Heuristic/Search → อู่/ช่าง"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBRB0tktR05RtbQP",
+    "formatting": {
+      "font_size": 32
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBRB0tktR05RtbQP",
+    "width": 860
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBRB0tktR05RtbQP",
+    "left": 940,
+    "top": 440
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBZ57WLFv1llVyPx",
+    "text": "ผู้ใช้รถ: รู้เพียงอาการ แต่บอกบริบทไม่ครบ\nและไม่มั่นใจว่าควรตรวจอะไรต่อ\n\nระบบ: ต้องเลือกคำถามที่ช่วยแยกสาเหตุ\nจากข้อมูลจำกัด โดยให้ความปลอดภัยมาก่อน\n\nอู่/ช่าง: ต้องการประวัติอาการและผลตรวจเดิม\nอย่างเป็นระบบ เพื่อใช้ประกอบการวินิจฉัย"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBZ57WLFv1llVyPx",
+    "formatting": {
+      "font_size": 34
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBZ57WLFv1llVyPx",
+    "width": 820
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBcrg4MYkKCCvlHP-LBdFc5cLyYtY480D-LBZ57WLFv1llVyPx",
+    "left": 940,
+    "top": 530
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBHmZzlL4PzPxl6N",
+    "text": "Search Flow & Handoff"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBHmZzlL4PzPxl6N",
+    "formatting": {
+      "font_size": 115
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBHmZzlL4PzPxl6N",
+    "width": 1600
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBHmZzlL4PzPxl6N",
+    "left": 50,
+    "top": 30
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBsKsSgnX52gv2hY",
+    "text": "ผู้ใช้รถ → ระบบ Heuristic/Search → Diagnostic Summary → อู่/ช่าง"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBsKsSgnX52gv2hY",
+    "formatting": {
+      "font_size": 37
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBsKsSgnX52gv2hY",
+    "width": 1780
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBsKsSgnX52gv2hY",
+    "left": 60,
+    "top": 220
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBbDqp3JZcfMFzmm",
+    "text": "01  ผู้ใช้รถ"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBbDqp3JZcfMFzmm",
+    "formatting": {
+      "font_size": 40
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBbDqp3JZcfMFzmm",
+    "width": 550
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBbDqp3JZcfMFzmm",
+    "left": 70,
+    "top": 715
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LB67SgfTPM2Sy1Rv",
+    "text": "แจ้งอาการและช่วงเวลาที่เกิด\nตอบคำถาม / สังเกตเฉพาะสิ่งที่ปลอดภัย\nเลือก “ไม่ทราบ” ได้\nเมื่อเสี่ยงหรือไม่มั่นใจ → หยุดและขอช่างช่วย"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LB67SgfTPM2Sy1Rv",
+    "formatting": {
+      "font_size": 30
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LB67SgfTPM2Sy1Rv",
+    "width": 530
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LB67SgfTPM2Sy1Rv",
+    "left": 70,
+    "top": 790
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBpdKX7vfPkFxgjW",
+    "text": "02  ระบบ Heuristic/Search"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBpdKX7vfPkFxgjW",
+    "formatting": {
+      "font_size": 36
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBpdKX7vfPkFxgjW",
+    "width": 590
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBpdKX7vfPkFxgjW",
+    "left": 660,
+    "top": 715
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBt8JFbhvXBHdFPS",
+    "text": "สร้างกลุ่มสาเหตุ → เลือกคำถามด้วย h(n)\nรับคำตอบ → ปรับกลุ่มสาเหตุ → ค้นหาต่อ\nหยุดเมื่อข้อมูลพอ / เสี่ยง / ไม่มีขั้นตอนที่เหมาะ\nสรุปอาการและข้อสงสัย ไม่ยืนยันชิ้นส่วนเสีย"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBt8JFbhvXBHdFPS",
+    "formatting": {
+      "font_size": 30
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBt8JFbhvXBHdFPS",
+    "width": 570
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBt8JFbhvXBHdFPS",
+    "left": 660,
+    "top": 790
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBd1W62j0fz9pg7K",
+    "text": "03  อู่/ช่าง"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LBd1W62j0fz9pg7K",
+    "formatting": {
+      "font_size": 40
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBd1W62j0fz9pg7K",
+    "width": 550
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBd1W62j0fz9pg7K",
+    "left": 1290,
+    "top": 715
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4",
+    "text": "รับ Diagnostic Summary:\nอาการ • บริบท • คำตอบ • สิ่งที่ยังไม่ทราบ\nผลสังเกต • สาเหตุที่ควรตรวจต่อ\nช่างตรวจรถจริง วินิจฉัย และวางแผนซ่อม"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4",
+    "formatting": {
+      "font_size": 30
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4",
+    "width": 550
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LB0qRt9C33hy4DV4",
+    "left": 1290,
+    "top": 790
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBPyMYY1X75WrNhH",
+    "height": 350
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBrZKLQJ63JjNYpc-LBwmtDZtj9s82zDJ",
+    "height": 350
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBdpvsHpnYm3XnBQ-LB8vCB6zW69ZvVsx",
+    "text": "Start State"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBdpvsHpnYm3XnBQ-LB8vCB6zW69ZvVsx",
+    "formatting": {
+      "font_size": 130
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBdpvsHpnYm3XnBQ-LB8vCB6zW69ZvVsx",
+    "width": 800
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBdpvsHpnYm3XnBQ-LB8vCB6zW69ZvVsx",
+    "left": 90,
+    "top": 135
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBygZQQKyr5y6SnS",
+    "text": "ผู้ใช้รถ\nพบอาการผิดปกติ เช่น สตาร์ทไม่ติด\nมีเสียงหรือไฟเตือน\nยังไม่ทราบสาเหตุแน่ชัด"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBygZQQKyr5y6SnS",
+    "formatting": {
+      "font_size": 34
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBygZQQKyr5y6SnS",
+    "width": 530
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBdpvsHpnYm3XnBQ-LBhXTsf4xXnk84p2-LBygZQQKyr5y6SnS",
+    "left": 1270,
+    "top": 145
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LByZlzHfbdn6Sw6N",
+    "text": "ระบบ\nรับอาการและข้อมูลรถเบื้องต้น\nยังไม่มีหลักฐานพอยืนยันสาเหตุ\nเริ่มจากกลุ่มสาเหตุที่เป็นไปได้"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LByZlzHfbdn6Sw6N",
+    "formatting": {
+      "font_size": 34
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LByZlzHfbdn6Sw6N",
+    "width": 530
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBdpvsHpnYm3XnBQ-LBGVnyGwD6p4VJTh-LByZlzHfbdn6Sw6N",
+    "left": 1270,
+    "top": 465
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBklKl3qWGw34n6F",
+    "text": "อู่/ช่าง\nยังไม่ได้รับข้อมูลอาการที่เป็นระบบ\nยังไม่ได้ตรวจรถจริง\nรอข้อมูลส่งต่อเพื่อประกอบการตรวจ"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBklKl3qWGw34n6F",
+    "formatting": {
+      "font_size": 34
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBklKl3qWGw34n6F",
+    "width": 530
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBdpvsHpnYm3XnBQ-LB7yky2C5JbYkfWS-LBklKl3qWGw34n6F",
+    "left": 1270,
+    "top": 785
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A2",
+    "text": "1. ผู้ใช้รถ: รู้ขั้นตอนถัดไปที่เหมาะสม"
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A3",
+    "text": "ได้รับคำแนะนำเบื้องต้นตามขอบเขตที่ปลอดภัย หากเสี่ยง ไม่มั่นใจ หรือข้อมูลไม่พอ ให้หยุดตรวจและขอความช่วยเหลือ ไม่รับรองว่าซ่อมเองสำเร็จหรือขับต่อได้"
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A4",
+    "text": "2. ระบบ: ได้ข้อมูลสรุปที่ตรวจสอบย้อนกลับได้"
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A5",
+    "text": "สร้าง Diagnostic Summary: ข้อมูลรถ อาการและบริบท คำตอบ/ผลสังเกต สิ่งที่ยังไม่ทราบ กลุ่มสาเหตุที่ควรตรวจต่อ และเหตุผลที่หยุดค้นหา"
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A6",
+    "text": "3. อู่/ช่าง: ได้ข้อมูลประกอบการวินิจฉัย"
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PB4TGdGxl6y5bvgK-LBHJb2gTYfkZYFfR-A7",
+    "text": "รับสรุปจากผู้ใช้ ตรวจรถจริงเพื่อยืนยันหรือหักล้างข้อสงสัย แล้ววินิจฉัยและวางแผนซ่อม ระบบช่วยคัดกรองและสื่อสาร ไม่วินิจฉัยแทนช่าง"
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBbs867G0LHMVdXc",
+    "text": "Heuristic Function"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBbs867G0LHMVdXc",
+    "formatting": {
+      "font_size": 110
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBbs867G0LHMVdXc",
+    "width": 1600
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBbs867G0LHMVdXc",
+    "left": 115,
+    "top": 100
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBhYl6FH6GXJkTmc",
+    "text": "เลือกขั้นตอนถัดไปด้วยคะแนน h(n)"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBhYl6FH6GXJkTmc",
+    "formatting": {
+      "font_size": 38
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBhYl6FH6GXJkTmc",
+    "width": 1000
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBhYl6FH6GXJkTmc",
+    "left": 170,
+    "top": 320
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LB5kxSM4mdzBRgvp",
+    "text": "n = คำถาม/การสังเกตถัดไป • เลือกคะแนนสูงก่อน\nh(n) = S × E / (R + 1) เป็นคะแนนจัดลำดับ ไม่ใช่โอกาสวินิจฉัยถูก"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LB5kxSM4mdzBRgvp",
+    "formatting": {
+      "font_size": 30
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LB5kxSM4mdzBRgvp",
+    "width": 1030
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LB5kxSM4mdzBRgvp",
+    "left": 190,
+    "top": 390
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBQHK3mPl84j5vmD",
+    "text": "ปัจจัยและเงื่อนไขหยุด"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBQHK3mPl84j5vmD",
+    "formatting": {
+      "font_size": 38
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBQHK3mPl84j5vmD",
+    "width": 980
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBQHK3mPl84j5vmD",
+    "left": 170,
+    "top": 505
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBXc7JqWqmrYMMJq",
+    "text": "S = ความสอดคล้องกับอาการและความพบบ่อย\nE = ความง่ายในการสังเกตโดยผู้ใช้ทั่วไป"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBXc7JqWqmrYMMJq",
+    "formatting": {
+      "font_size": 31
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBXc7JqWqmrYMMJq",
+    "width": 960
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBXc7JqWqmrYMMJq",
+    "left": 190,
+    "top": 570
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBYJZ0Gbwl6Q5Rcw",
+    "text": "R = ความเสี่ยงต่อผู้ใช้และตัวรถ (มาก → คะแนนลด)\nกำหนดสเกล S, E, R ให้ชัด และปรับคะแนนเมื่อได้คำตอบ"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBYJZ0Gbwl6Q5Rcw",
+    "formatting": {
+      "font_size": 31
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBYJZ0Gbwl6Q5Rcw",
+    "width": 960
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBYJZ0Gbwl6Q5Rcw",
+    "left": 190,
+    "top": 675
+  },
+  {
+    "type": "replace_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBg7t0n0M0KFj7fW",
+    "text": "Safety gate: เสี่ยงหรือไม่มั่นใจ → หยุด ไม่จัดอันดับให้ทำต่อ\nข้อมูลพอ / ไม่มีขั้นตอนที่เหมาะ → ส่งสรุปให้ช่างตรวจยืนยัน"
+  },
+  {
+    "type": "format_text",
+    "element_id": "PBXFLJQgMLbVMTcB-LBg7t0n0M0KFj7fW",
+    "formatting": {
+      "font_size": 31
+    }
+  },
+  {
+    "type": "resize_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBg7t0n0M0KFj7fW",
+    "width": 990
+  },
+  {
+    "type": "position_element",
+    "element_id": "PBXFLJQgMLbVMTcB-LBg7t0n0M0KFj7fW",
+    "left": 190,
+    "top": 785
+  }
+]
