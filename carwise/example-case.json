@@ -1,0 +1,17 @@
+{
+  "format": "carwise-case-v1",
+  "case": {
+    "id": "CW-EXAMPLE-IMPORT",
+    "vehicle": "รถตัวอย่างสำหรับนำเข้า",
+    "year": "2020",
+    "category": "noise",
+    "context": "ข้อมูลสมมติสำหรับสาธิตการส่งต่อไฟล์ระหว่างผู้ใช้และช่าง",
+    "created": "2026-09-29T08:00:00.000Z",
+    "safety": "unknown",
+    "reason": "ผู้ใช้ไม่มั่นใจเรื่องความปลอดภัย",
+    "answers": [],
+    "status": "queued",
+    "mechanic": {},
+    "demo": true
+  }
+}
